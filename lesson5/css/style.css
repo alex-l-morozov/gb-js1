@@ -1,0 +1,43 @@
+.container{
+    margin: 200px auto 0;
+    text-align: center;
+}
+#board{
+    display: inline-block;
+}
+.board{
+    border-collapse: collapse;
+}
+table {
+    font-family: Impact, sans-serif;
+    font-size: 30px;
+    background-color: beige;
+    color: #3a2702;
+}
+td {
+    font-size: 28px;
+}
+
+.cell-black {
+    width: 50px;
+    height: 50px;
+    background-color: darkgrey;
+    border: 1px solid #000;
+}
+.cell-white {
+    width: 50px;
+    height: 50px;
+    background-color: beige;
+    border: 1px solid #000;
+}
+.rotate {
+    transform: rotate(180deg);
+}
+
+.border-cell {
+    width: 50px;
+    height: 50px;
+    background-color: beige;
+}
+
+
