@@ -1,0 +1,18 @@
+#cart {
+    margin: 100px auto;
+    height: 200px;
+    padding: 20px;
+    border: black solid 1px;
+}
+#products {
+    margin: 100px auto;
+    height: 300px;
+    padding: 20px;
+    border: black solid 1px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+}
+.product {
+    margin: 0 200px;
+}
