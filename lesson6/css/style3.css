@@ -1,0 +1,13 @@
+img {
+    padding: 50px;
+    width: 400px;
+}
+#carusel {
+    width: 500px;
+}
+#button_left {
+    float: left;
+}
+#button_right {
+    float: right;
+}
